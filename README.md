@@ -1,4 +1,4 @@
-# final_project
+# final_report
 # Waste Classification Using CNN
 **การจำแนกภาพขยะ 4 ประเภทด้วยเทคนิค Deep Learning**
 
